@@ -1,89 +1,48 @@
-<h1 align="center">Hi 👋, I'm Soundarya</h1>
-<h2 align="center">AI & Machine Learning Enthusiast | Web Developer</h2>
+# Hey, I'm Soundarya 👋
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=F70000&size=32&center=true&vCenter=true&width=900&lines=AI+Explorer;Machine+Learning+Learner;Web+Development+Enthusiast;Building+Projects+and+Learning+Everyday"/>
-</p>
+**Data Analyst** — I turn messy datasets into decisions that actually make sense.
 
----
-
-## 🌸 About Me
-- 🎓 Student exploring **Artificial Intelligence, Machine Learning, and Web Development**
-- 💡 Interested in **AI systems that improve learning and education**
-- 🌱 Learning **Python, Machine Learning concepts, and modern web technologies**
-- 🚀 Starting my journey by building **AI and web-based projects**
-- 📚 Goal: **Constantly experimenting, learning, and improving**
+Currently building projects in Python, SQL, and Tableau. 
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠 What I work with
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge&logo=tensorflow"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
-
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+### 📌 Featured projects
 
-<p align="center">
+<!-- These show up as pinned repos — update these names once you build them -->
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=soundaryaXai&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soundaryaXai&layout=compact&theme=tokyonight&langs_count=8"/>
-
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=soundaryaXai&theme=tokyonight"/>
-
-</p>
+| Project | What it does | Stack |
+|---|---|---|
+| [Mumbai Housing Pulse](#) | Tracks rental affordability trends across Mumbai neighbourhoods | Python · Pandas · Folium |
+| [IPL Win Predictor](#) | Live win probability model built on 15 seasons of match data | Python · scikit-learn · Streamlit |
+| [D2C Brand Health Dashboard](#) | Simulates a Shopify-style analytics dashboard for a fictional brand | SQL · Power BI |
 
 ---
 
-## 📈 Contribution Graph
+### 📈 Currently learning
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=soundaryaXai&theme=tokyo-night"/>
-
-</p>
+- Advanced SQL (window functions, CTEs, query optimisation)
+- Building dashboards in Tableau Public
+- Storytelling with data — not just charts, but conclusions
 
 ---
 
-## 🎯 Current Focus
+### 📬 Let's connect
 
-- Learning **Machine Learning fundamentals**
-- Practicing **Python for AI**
-- Building **small web applications**
-- Exploring **AI + Education tools**
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://github.com/soundaryaXai">GitHub</a>
-</p>
+- 💼 [LinkedIn](https://www.linkedin.com/in/soundarya-babu-9a46b735a/)
+- 🌐 [Portfolio](https://yourportfolio.com)
+- 📧 youremail@gmail.com
 
 ---
 
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=soundaryaXai&color=blue)
-
----
-
-⭐ *"Learning to build intelligent systems and meaningful technology."*
+*Open to freelance data analytics projects. If you have data and need clarity — let's talk.*
