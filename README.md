@@ -40,7 +40,7 @@ Currently building projects in Python, SQL, and Tableau.
 ### 📬 Let's connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/soundarya-babu-9a46b735a/)
-- 🌐 [Portfolio](https://yourportfolio.com)
+- 🌐 [Portfolio](https://soundarya-xai-github-io.vercel.app/)
 - 📧 soundaryaxai@gmail.com
 
 ---
