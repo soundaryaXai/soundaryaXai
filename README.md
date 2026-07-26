@@ -38,7 +38,7 @@
 <br/><br/>
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logoColor=33FF66&color=000000"/> <img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square&color=000000&labelColor=000000&logoColor=33FF66"/> <img src="https://img.shields.io/badge/CI%2FCD-000000?style=flat-square&color=000000&logoColor=33FF66"/>
 <br/><br/>
-<a href="https://github.com/YOUR_USERNAME/architecture-drift-guardian"><img src="https://img.shields.io/badge/→_view_repo-000000?style=flat-square&color=000000&logoColor=33FF66"/></a>
+<a href="https://github.com/soundaryaXai/architecture-drift-guardian"><img src="https://img.shields.io/badge/→_view_repo-000000?style=flat-square&color=000000&logoColor=33FF66"/></a>
 </td>
 <td width="50%" valign="top">
 <h4>Digital Twin</h4>
@@ -46,7 +46,7 @@
 <br/><br/>
 <img src="https://img.shields.io/badge/RAG-000000?style=flat-square&color=000000&logoColor=33FF66"/> <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logoColor=33FF66&color=000000"/> <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logoColor=33FF66&color=000000"/>
 <br/><br/>
-<a href="https://github.com/YOUR_USERNAME/domain-digital-twin"><img src="https://img.shields.io/badge/→_view_repo-000000?style=flat-square&color=000000&logoColor=33FF66"/></a>
+<a href="https://github.com/soundaryaXai/domain-digital-twin"><img src="https://img.shields.io/badge/→_view_repo-000000?style=flat-square&color=000000&logoColor=33FF66"/></a>
 </td>
 </tr>
 <tr>
@@ -56,7 +56,7 @@
 <br/><br/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logoColor=33FF66&color=000000"/> <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logoColor=33FF66&color=000000"/> <img src="https://img.shields.io/badge/Time--Series_ML-000000?style=flat-square&color=000000&logoColor=33FF66"/>
 <br/><br/>
-<a href="https://github.com/YOUR_USERNAME/campus-digital-twin"><img src="https://img.shields.io/badge/→_view_repo-000000?style=flat-square&color=000000&logoColor=33FF66"/></a>
+<a href="https://github.com/soundaryaXai/campus-digital-twin"><img src="https://img.shields.io/badge/→_view_repo-000000?style=flat-square&color=000000&logoColor=33FF66"/></a>
 </td>
 <td width="50%" valign="top">
 <h4>Healthcare Intelligence</h4>
@@ -64,7 +64,7 @@
 <br/><br/>
 <img src="https://img.shields.io/badge/Transformers-000000?style=flat-square&logoColor=33FF66&color=000000"/> <img src="https://img.shields.io/badge/NLP-000000?style=flat-square&color=000000&logoColor=33FF66"/> <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logoColor=33FF66&color=000000"/>
 <br/><br/>
-<a href="https://github.com/YOUR_USERNAME/healthcare-document-intelligence"><img src="https://img.shields.io/badge/→_view_repo-000000?style=flat-square&color=000000&logoColor=33FF66"/></a>
+<a href="https://github.com/soundaryaXai/healthcare-document-intelligence"><img src="https://img.shields.io/badge/→_view_repo-000000?style=flat-square&color=000000&logoColor=33FF66"/></a>
 </td>
 </tr>
 </table>
@@ -120,9 +120,6 @@
 ## <img src="https://img.shields.io/badge/-●-000000?style=flat&color=33FF66" height="14"/> GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=soundaryaXai&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=33FF66&icon_color=33FF66&text_color=1F7A3F&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soundaryaXai&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=33FF66&text_color=1F7A3F&langs_count=8" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=soundaryaXai&theme=dark&hide_border=true&background=000000&stroke=33FF66&ring=33FF66&fire=33FF66&currStreakLabel=33FF66&sideLabels=1F7A3F&dates=1F7A3F"/>
 
