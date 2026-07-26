@@ -1,121 +1,100 @@
 <div align="center">
 
-<!-- Animated typing hero -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=AI+Systems+Engineer;Full-Stack+Developer;Building+Intelligent+Software+for+Real-World+Problems" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=200&section=header&text=AI%20Systems%20Engineer&fontSize=42&fontColor=58A6FF&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Building%20Intelligent%20Software%20for%20Real-World%20Problems&descAlignY=58&descSize=16&descColor=8B949E&animation=fadeIn" width="100%"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58A6FF&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-58A6FF?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-58A6FF?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
 
 <br/>
 
-## `01` About
+### About
 
-I design and ship AI-powered systems end-to-end — from model/agent architecture down to the infrastructure that keeps them running in production. My work sits at the intersection of **applied AI, backend engineering, and cloud infrastructure**.
+I build production AI systems — from agent architecture and retrieval pipelines down to the infrastructure that keeps them reliable at scale. My work sits at the intersection of applied AI, backend engineering, and cloud infrastructure.
 
-```python
-class Engineer:
-    def __init__(self):
-        self.focus = ["AI Systems", "Full-Stack Engineering", "Cloud", "Data Engineering"]
-        self.currently_building = "Architecture Drift Guardian"
-        self.philosophy = "Ship systems that solve real problems, not just demos"
-
-    def get_in_touch(self):
-        return "let's build something → your_email@example.com"
-```
+I'm not interested in demos that only work in a notebook. I care about systems that hold up under real data, real load, and real failure modes.
 
 <br/>
 
-## `02` Featured Projects
+<table width="100%">
+<tr><td>
 
-<table>
+### Featured Work
+
+</td></tr>
+</table>
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
-
-### 🛰️ [Architecture Drift Guardian](https://github.com/YOUR_USERNAME/architecture-drift-guardian)
-↳ Detects architectural drift in codebases using static analysis + LLM reasoning, flagging violations before they compound into technical debt.
-
-`Python` `LangGraph` `AST Analysis` `CI/CD`
-
+<h4>🛰️ Architecture Drift Guardian</h4>
+<p>Detects architectural drift in large codebases by combining static analysis with LLM-based reasoning — catching violations before they compound into technical debt.</p>
+<sub><b>Python · LangGraph · AST Analysis · CI/CD</b></sub>
+<br/><br/>
+<a href="https://github.com/YOUR_USERNAME/architecture-drift-guardian">View repository →</a>
 </td>
 <td width="50%" valign="top">
-
-### 🧠 [Digital Twin](https://github.com/YOUR_USERNAME/domain-digital-twin)
-↳ A personalized memory system that builds an evolving digital twin of user context for downstream reasoning and retrieval.
-
-`RAG` `Vector DB` `FastAPI` `PostgreSQL`
-
+<h4>🧠 Digital Twin</h4>
+<p>A personalized memory system that builds an evolving digital twin of user context, powering more accurate downstream reasoning and retrieval.</p>
+<sub><b>RAG · Vector DB · FastAPI · PostgreSQL</b></sub>
+<br/><br/>
+<a href="https://github.com/YOUR_USERNAME/domain-digital-twin">View repository →</a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### 🏫 [Campus Digital Twin](https://github.com/YOUR_USERNAME/campus-digital-twin)
-↳ Predictive simulation of campus resource usage (space, energy, traffic) to optimize operations in real time.
-
-`Simulation` `Time-Series ML` `Next.js` `Docker`
-
+<h4>🏫 Campus Digital Twin</h4>
+<p>Predictive simulation of campus resource usage — space, energy, traffic — to optimize operations in near real time.</p>
+<sub><b>Time-Series ML · Simulation · Next.js · Docker</b></sub>
+<br/><br/>
+<a href="https://github.com/YOUR_USERNAME/campus-digital-twin">View repository →</a>
 </td>
 <td width="50%" valign="top">
-
-### 🩺 [Healthcare Document Intelligence](https://github.com/YOUR_USERNAME/healthcare-document-intelligence)
-↳ Extracts structured clinical insight from unstructured medical documents using transformer-based NLP pipelines.
-
-`Transformers` `NLP` `HIPAA-aware pipelines` `AWS`
-
+<h4>🩺 Healthcare Document Intelligence</h4>
+<p>Extracts structured clinical insight from unstructured medical documents using transformer-based NLP pipelines.</p>
+<sub><b>Transformers · NLP · AWS · HIPAA-aware design</b></sub>
+<br/><br/>
+<a href="https://github.com/YOUR_USERNAME/healthcare-document-intelligence">View repository →</a>
 </td>
 </tr>
 </table>
 
-<div align="right"><i>→ full write-ups in <a href="https://github.com/soundaryxai/portfolio">/portfolio</a></i></div>
-
 <br/>
 
-## `03` Tech Stack
+### Stack
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="25%">
 
 **Frontend**
-
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+<br/>
+React · Next.js · TypeScript
 
 </td>
 <td valign="top" width="25%">
 
 **Backend**
-
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<br/>
+FastAPI · Node.js · PostgreSQL
 
 </td>
 <td valign="top" width="25%">
 
 **AI / ML**
-
-![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
-![Transformers](https://img.shields.io/badge/-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![RAG](https://img.shields.io/badge/-RAG-6E56CF?style=flat-square)
+<br/>
+LangGraph · Transformers · RAG
 
 </td>
 <td valign="top" width="25%">
 
-**Cloud / DevOps**
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+**Cloud**
+<br/>
+Docker · AWS · GitHub Actions
 
 </td>
 </tr>
@@ -123,30 +102,30 @@ class Engineer:
 
 <br/>
 
-## `04` GitHub Analytics
+### Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=default&bg_color=ffffff00&title_color=0D1117&icon_color=58A6FF&text_color=57606a&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=ffffff00&title_color=0D1117&text_color=57606a&langs_count=8" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=minimal&hide_border=true&bg_color=ffffff00&color=0D1117&line=58A6FF&point=0D1117" width="100%"/>
 
 </div>
 
 <br/>
 
-## `05` Currently
+### Currently
 
-```text
-🔭  Building     → Architecture Drift Guardian (multi-agent static analysis)
-🌱  Learning     → Distributed systems for agentic pipelines
-💬  Ask me about → RAG architecture, LangGraph, production ML infra
-📫  Reach me at  → your_email@example.com
-```
+| | |
+|---|---|
+| 🔭 Building | Architecture Drift Guardian — multi-agent static analysis |
+| 🌱 Learning | Distributed systems for agentic pipelines |
+| 💬 Ask me about | RAG architecture, LangGraph, production ML infrastructure |
+| 📫 Reach me | YOUR_EMAIL |
 
-<div align="center">
-<sub>Built with intent, not a template.</sub>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=100&section=footer" width="100%"/>
+
 </div>
