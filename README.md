@@ -74,7 +74,7 @@ class Engineer:
 </tr>
 </table>
 
-<div align="right"><i>→ full write-ups in <a href="https://github.com/YOUR_USERNAME/portfolio">/portfolio</a></i></div>
+<div align="right"><i>→ full write-ups in <a href="https://github.com/soundaryxai/portfolio">/portfolio</a></i></div>
 
 <br/>
 
