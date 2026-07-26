@@ -126,7 +126,7 @@
 
 <img src="https://streak-stats.demolab.com?user=soundaryaXai&theme=dark&hide_border=true&background=000000&stroke=33FF66&ring=33FF66&fire=33FF66&currStreakLabel=33FF66&sideLabels=1F7A3F&dates=1F7A3F"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=000000&color=33FF66&line=33FF66&point=FFFFFF&area=true&area_color=33FF66" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=soundaryaXai&theme=react-dark&hide_border=true&bg_color=000000&color=33FF66&line=33FF66&point=FFFFFF&area=true&area_color=33FF66" width="100%"/>
 
 </div>
 
