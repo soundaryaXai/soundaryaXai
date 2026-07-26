@@ -121,10 +121,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=33FF66&icon_color=33FF66&text_color=1F7A3F&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=33FF66&text_color=1F7A3F&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=soundaryaXai&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=33FF66&icon_color=33FF66&text_color=1F7A3F&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soundaryaXai&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=33FF66&text_color=1F7A3F&langs_count=8" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=000000&stroke=33FF66&ring=33FF66&fire=33FF66&currStreakLabel=33FF66&sideLabels=1F7A3F&dates=1F7A3F"/>
+<img src="https://streak-stats.demolab.com?user=soundaryaXai&theme=dark&hide_border=true&background=000000&stroke=33FF66&ring=33FF66&fire=33FF66&currStreakLabel=33FF66&sideLabels=1F7A3F&dates=1F7A3F"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=000000&color=33FF66&line=33FF66&point=FFFFFF&area=true&area_color=33FF66" width="100%"/>
 
