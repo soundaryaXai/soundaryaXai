@@ -38,7 +38,7 @@
 <br/><br/>
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logoColor=33FF66&color=000000"/> <img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square&color=000000&labelColor=000000&logoColor=33FF66"/> <img src="https://img.shields.io/badge/CI%2FCD-000000?style=flat-square&color=000000&logoColor=33FF66"/>
 <br/><br/>
-<a href="https://github.com/soundaryaXai/architecture-drift-guardian"><img src="https://img.shields.io/badge/→_view_repo-000000?style=flat-square&color=000000&logoColor=33FF66"/></a>
+<a href="https://github.com/soundaryaXai/adg-backend"><img src="https://img.shields.io/badge/→_view_repo-000000?style=flat-square&color=000000&logoColor=33FF66"/></a>
 </td>
 <td width="50%" valign="top">
 <h4>Digital Twin</h4>
